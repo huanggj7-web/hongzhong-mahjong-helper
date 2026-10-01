@@ -6,7 +6,8 @@
 
 ## 功能
 
-- 连续点选录入手牌，摸一张、打一张、撤销操作，保留本机手牌
+- 底部固定牌面键盘，连续点选录入；自动判断摸牌/打牌阶段，新摸牌单独标记
+- 点上方手牌打出，随时撤销；牌效率详情默认收起，手牌保留在本机
 - 红中万能牌、自摸成胡和听牌结构检查，副露和杠牌录入
 - 未听牌时比较向听数与理论有效进牌；14 张时按牌效率排列弃牌候选
 - 自摸、奖码和杠的自动积分，明细预览、确认记账和撤销上一局
@@ -57,6 +58,10 @@ GitHub Pages 使用 `main` 分支根目录，`.nojekyll` 让静态资源直接�
 
 本仓库仅包含公开前端。共享房间服务部署在 `https://hongzhong-family-table.huanggj7.chatgpt.site`，只允许正式 GitHub Pages 来源的浏览器访问。
 
+## 牌面素材
+
+28 张牌面使用 CC0 / 公有领域矢量素材，并做配色适配。素材来自 samoheen/mahjong-tiles 与 FluffyStuff/riichi-mahjong-tiles，精确文件、版本、来源和许可见 [牌面素材说明](tiles/ATTRIBUTION.txt)。牌面并非实体牌扫描，部分花纹与参考牌可能不同。
+
 ## 文件
 
 - `index.html` / `style.css`：页面和样式
@@ -64,3 +69,4 @@ GitHub Pages 使用 `main` 分支根目录，`.nojekyll` 让静态资源直接�
 - `app.js`：手牌和本机记分
 - `efficiency.js` / `analysis-worker.js`：后台牌效率分析
 - `room.js`：共享房间界面和同步
+- `tiles/`：公开授权牌面素材及来源说明

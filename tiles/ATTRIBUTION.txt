@@ -1,0 +1,121 @@
+麻将牌面素材来源与许可
+
+本应用使用已有 CC0 / 公有领域矢量牌面，未使用用户照片中的人物、房间或原图。
+素材作者：samoheen / mahjong-tiles；FluffyStuff / riichi-mahjong-tiles。
+许可：https://creativecommons.org/publicdomain/zero/1.0/
+
+现有矢量形状未重新绘制。将原蓝色改为近黑；花一筒改为绿红；三筒按参考调整为绿、红、黑。
+这是相近风格牌面，书法、花纹、一条鸟图和伍字可能与实体牌不同。
+
+精确文件映射及来源：
+0.svg = m1 / 一萬
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/08-characters-1.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+1.svg = m2 / 二萬
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/09-characters-2.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+2.svg = m3 / 三萬
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/10-characters-3.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+3.svg = m4 / 四萬
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/11-characters-4.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+4.svg = m5 / 五萬
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/12-characters-5.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+5.svg = m6 / 六萬
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/13-characters-6.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+6.svg = m7 / 七萬
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/14-characters-7.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+7.svg = m8 / 八萬
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/15-characters-8.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+8.svg = m9 / 九萬
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/16-characters-9.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+9.svg = p1 / 一筒
+https://github.com/FluffyStuff/riichi-mahjong-tiles/blob/26e127ba2117f45cdce5ea0225748cc0cfad3169/Regular/Pin1.svg
+https://github.com/FluffyStuff/riichi-mahjong-tiles/blob/26e127ba2117f45cdce5ea0225748cc0cfad3169/LICENSE.md
+
+10.svg = p2 / 二筒
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/18-circles-2.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+11.svg = p3 / 三筒
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/19-circles-3.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+12.svg = p4 / 四筒
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/20-circles-4.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+13.svg = p5 / 五筒
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/21-circles-5.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+14.svg = p6 / 六筒
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/22-circles-6.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+15.svg = p7 / 七筒
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/23-circles-7.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+16.svg = p8 / 八筒
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/24-circles-8.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+17.svg = p9 / 九筒
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/25-circles-9.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+18.svg = s1 / 一索
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/26-bamboos-1.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+19.svg = s2 / 二索
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/27-bamboos-2.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+20.svg = s3 / 三索
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/28-bamboos-3.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+21.svg = s4 / 四索
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/29-bamboos-4.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+22.svg = s5 / 五索
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/30-bamboos-5.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+23.svg = s6 / 六索
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/31-bamboos-6.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+24.svg = s7 / 七索
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/32-bamboos-7.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+25.svg = s8 / 八索
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/33-bamboos-8.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+26.svg = s9 / 九索
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/34-bamboos-9.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
+
+27.svg = z7 / 中
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/hongkong/svg/03-red-dragon.svg
+https://github.com/samoheen/mahjong-tiles/blob/37a2549fe91687db191014cc426f836df630b1b6/LICENSE.md
