@@ -27,6 +27,5 @@ function validRound(r){if(Array.isArray(r))return r.length===4&&r.every(n=>Numbe
 function totalsCents(rounds){return rounds.reduce((a,r)=>{if(!validRound(r))throw Error('存在无效积分记录');return a.map((v,i)=>{const n=v+(Array.isArray(r)?r[i]*100:r.deltaCents[i]);if(!Number.isSafeInteger(n))throw Error('累计积分超出安全范围');return n;});},[0,0,0,0]);}
 function totals(rounds){return totalsCents(rounds).map(n=>n/100);}
 function formatCents(n){if(!Number.isSafeInteger(n))throw Error('积分超出安全范围');const abs=Math.abs(n);return (n<0?'-':'')+Math.floor(abs/100)+(abs%100?'.'+String(abs%100).padStart(2,'0').replace(/0$/,''):'');}
-function dice(random=Math.random){return [1+Math.floor(random()*6),1+Math.floor(random()*6)];}
-const api={labels,validate,win,waits,discards,record,totals,dice,baseCents,calculate,validRound,totalsCents,formatCents};if(typeof module!=='undefined')module.exports=api;else root.Mahjong=api;
+const api={labels,validate,win,waits,discards,record,totals,baseCents,calculate,validRound,totalsCents,formatCents};if(typeof module!=='undefined')module.exports=api;else root.Mahjong=api;
 })(globalThis);
