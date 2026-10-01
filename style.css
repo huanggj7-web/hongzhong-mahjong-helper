@@ -20,3 +20,6 @@ body[data-view="hand"] main{padding:8px 8px 12px}body[data-view="hand"] header,b
 #hand .tile{border-bottom-color:#85bed0}
 main{padding-top:12px}header{margin-bottom:10px}nav{margin-bottom:10px}.room-card-detail{padding-bottom:14px}
 #hand .tile{transition:none}#hand .tile:active{transform:none;filter:brightness(.94)}
+
+/* Claim an external discard using exact physical hand tiles. */
+.meld-form{align-items:end}.meld-tile-select{display:flex;flex-direction:column;gap:3px;font-size:14px;min-width:110px}.meld-tile-select select{width:100%}#chi-options{display:grid;gap:7px}#chi-options[hidden],#add-meld[hidden]{display:none}.chi-candidate{display:flex;align-items:center;gap:10px;min-height:64px;text-align:left;border:1px solid #b7cdbb;background:#fffdf4;width:100%;padding:8px;font-size:14px}.chi-faces{display:flex;flex-shrink:0;gap:3px}.chi-faces img{width:29px;height:41px;object-fit:contain;background:#fffef8;border:1px solid #c6d3c4;border-radius:3px}.chi-faces img.external-tile{outline:2px solid #ac2b35;outline-offset:0}
